@@ -1,0 +1,19 @@
+{
+  "name": "elementz-s3",
+  "version": "0.1.0",
+  "description": "File management",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harice/elementz-s3.git"
+  },
+  "author": "Harice Dione Quinanola <harice.quinanola@elementzinteractive.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/harice/elementz-s3/issues"
+  },
+  "homepage": "https://github.com/harice/elementz-s3#readme"
+}
